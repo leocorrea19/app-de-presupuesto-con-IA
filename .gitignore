@@ -1,0 +1,28 @@
+# --- Archivo .gitignore para el Gestor de Presupuesto ---
+
+# 1. Entorno Virtual de Python
+# Ignorar la carpeta del entorno virtual
+venv/
+/venv/
+
+# 2. Caché de Python
+# Ignorar carpetas de caché y archivos compilados
+__pycache__/
+*.pyc
+
+# 3. Archivos de Compilación de PyInstaller
+# Ignorar los resultados de compilar el .exe
+/build/
+/dist/
+*.spec
+
+# 4. Base de Datos (¡MUY IMPORTANTE!)
+# Ignorar cualquier archivo de base de datos SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# 5. Archivos de IDE (Opcional pero recomendado)
+# Ignorar configuraciones locales de VS Code o otros IDEs
+.vscode/
+.idea/
