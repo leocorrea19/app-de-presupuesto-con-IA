@@ -132,7 +132,3 @@ El proyecto está organizado en módulos siguiendo el principio de Responsabilid
 ```
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.# app-de-presupuesto-con-IA
